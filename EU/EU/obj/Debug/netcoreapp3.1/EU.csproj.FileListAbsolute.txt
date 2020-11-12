@@ -1,0 +1,11 @@
+D:\_OKJ ONLINE\Englert\EU\EU\bin\Debug\netcoreapp3.1\EU.exe
+D:\_OKJ ONLINE\Englert\EU\EU\bin\Debug\netcoreapp3.1\EU.deps.json
+D:\_OKJ ONLINE\Englert\EU\EU\bin\Debug\netcoreapp3.1\EU.runtimeconfig.json
+D:\_OKJ ONLINE\Englert\EU\EU\bin\Debug\netcoreapp3.1\EU.runtimeconfig.dev.json
+D:\_OKJ ONLINE\Englert\EU\EU\bin\Debug\netcoreapp3.1\EU.dll
+D:\_OKJ ONLINE\Englert\EU\EU\bin\Debug\netcoreapp3.1\EU.pdb
+D:\_OKJ ONLINE\Englert\EU\EU\obj\Debug\netcoreapp3.1\EU.csprojAssemblyReference.cache
+D:\_OKJ ONLINE\Englert\EU\EU\obj\Debug\netcoreapp3.1\EU.AssemblyInfoInputs.cache
+D:\_OKJ ONLINE\Englert\EU\EU\obj\Debug\netcoreapp3.1\EU.AssemblyInfo.cs
+D:\_OKJ ONLINE\Englert\EU\EU\obj\Debug\netcoreapp3.1\EU.dll
+D:\_OKJ ONLINE\Englert\EU\EU\obj\Debug\netcoreapp3.1\EU.pdb
